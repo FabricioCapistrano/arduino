@@ -1,0 +1,4 @@
+{
+    "sketch": "ligar-led\\ligarLed.ino",
+    "board": "arduino:avr:uno"
+}
